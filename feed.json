@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Type Detail Blog",
+    "description": "",
+    "home_page_url": "https://www.typedetail.com/blog",
+    "feed_url": "https://www.typedetail.com/blog/feed.json",
+    "user_comment": "",
+    "icon": "https://www.typedetail.com/blog/media/website/Type-Detail-Logo.svg",
+    "author": {
+        "name": "Wenting Zhang"
+    },
+    "items": [
+    ]
+}

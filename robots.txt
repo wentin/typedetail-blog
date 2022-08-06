@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.typedetail.com/blog/sitemap.xml
